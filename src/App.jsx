@@ -34,7 +34,7 @@ function App() {
     }
   };
   return (
-    <Router>
+    <Router basename="/React_Shopping_cart">
       <Header countCartItems={cartItems.length} />
 
       <Routes>
