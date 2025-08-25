@@ -43,12 +43,12 @@ a:hover{
 
 .col-1 {
   flex: 1;
-  /* min-width: 250px; */
+  min-width: 250px;
 }
 
 .col-2 {
   flex: 2;
-  /* min-width: 300px; */
+  min-width: 300px;
 }
 
 .block {
